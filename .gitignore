@@ -1,0 +1,9 @@
+data/voiced-database-1.0.0
+venv/
+datasets/
+*.csv
+*.pt
+*.pth
+*.h5
+__pycache__/
+.ipynb_checkpoints/
