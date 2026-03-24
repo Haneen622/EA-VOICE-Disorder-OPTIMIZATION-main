@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Data
+data/
+datasets/
+*.csv
+*.zip
+
+# Models
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# system
+.DS_Store
